@@ -10,6 +10,8 @@ Will works with all devices with TuyaOS, (LSC Smart Connect, Kruidvat Smart Plug
 
 ## Installation:
 
+### Link your devices to the API and get your credentials.
+
 -  Go to https://iot.tuya.com, and create/connect to your api account.
 -  Once your account is created and you are ready, go to "Cloud" tab, then "Development".
 -  Create a cloud project.
@@ -17,4 +19,8 @@ Will works with all devices with TuyaOS, (LSC Smart Connect, Kruidvat Smart Plug
 -  For the Data Center, select the once which is near your home. (I'm in Belgium, so I use Central European Data Center)
 -  "Configuration Wizard" for the 4 API services selected, Press authorize.
 -  /!\ If you switched all your device to the Tuya Application, you can go in the Devices tab, go in the "Link Tuya App Account" and press: Add app account.
--  Scan the QR code with "Tuya Smart"
+-  Scan the QR code with "Tuya Smart".
+-  Be sure to know how to get your client_id, client_secret.
+-  And now, you're ready for this part.
+
+### Touch Portal Integration.
